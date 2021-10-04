@@ -1,0 +1,26 @@
+{
+  "name": "team-toast",
+  "version": "1.0.0",
+  "description": "The official Team Toast bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlamingHotToast/Team-Toast.git"
+  },
+  "author": "Team-Toast",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlamingHotToast/Team-Toast/issues"
+  },
+  "homepage": "https://github.com/FlamingHotToast/Team-Toast#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "date-and-time": "^2.0.1",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.1.0"
+  }
+}
